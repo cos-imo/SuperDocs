@@ -15,7 +15,7 @@ Bonne lecture!
 
 - [🏠 Accueil](Accueil.md)
 
-- [🛡️ Cyber (Blue Team)](src/cyber%20(blue%20team)/cyber.md)
+- [🛡️ Cyber (Blue Team)](🛡️%20Gouvernance%20et%20Frameworks.md)
 - [💻 Dev](dev/dev.md)
 
   - [📚 Docs](dev/docs.md)
@@ -39,14 +39,14 @@ Bonne lecture!
 
   - [🛠️ Tools](malware/tools.md)
 - [🌐 Networking](networking/networking.md)
-- [🥷 Pentest](🥷%20Pentest.md)
+- [🥷 Pentest](pentest/🥷%20Pentest.md)
 
-  - [📚 Docs](📚%20Docs.md)
+  - [📚 Docs](pentest/📚%20Docs.md)
   - [💾 Labs](pentest/💾%20Labs.md)
-  - [📋 Lists](Lists.md)
+  - [📋 Lists](pentest/Lists.md)
   - [🧰 Resources](src/pentest/resources/🧰%20Resources.md)
-	  - [📓 Playbooks](src/pentest/resources/📓%20Playbooks.md)
-	  - [🗺️ Cheatsheets and mindmaps](src/pentest/resources/🗺️%20Cheatsheets_and_mindmaps)
-	  - [📋 Write-ups](src/pentest/resources/📋%20Write-ups.md)
-	  - [🔀 Misc](src/pentest/resources/Misc.md)
+	  - [📓 Playbooks](pentest/resources/📓%20Playbooks.md)
+	  - [🗺️ Cheatsheets and mindmaps](pentest/resources/🗺️%20Cheatsheets_et_mindmaps.md)
+	  - [📋 Write-ups](pentest/resources/📋%20Write-ups.md)
+	  - [🔀 Misc](pentest/resources/Misc.md)
   - [🛠️ Tools](pentest/tools.md)
