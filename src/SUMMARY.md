@@ -2,7 +2,7 @@
 
 - [🏠 Accueil](Accueil.md)
 
-- [🛡️ Cyber (Blue Team)](cyber%20(blue%20team)/cyber.md)
+- [🛡️ Cyber (Blue Team)](src/cyber%20(blue%20team)/cyber.md)
 - [💻 Dev](dev/dev.md)
 
   - [📚 Docs](dev/docs.md)
@@ -31,9 +31,9 @@
   - [📚 Docs](📚%20Docs.md)
   - [💾 Labs](pentest/💾%20Labs.md)
   - [📋 Lists](Lists.md)
-  - [🧰 Ressources](🧰%20Ressources.md)
+  - [🧰 Resources](🧰%20Resources.md)
 	  - [📓 Playbooks](📓%20Playbooks.md)
-	  - [🗺️ Cheatsheets and mindmaps](src/src/pentest/ressources/Cheatsheets_and_mindmaps)
-	  - [📋 Write-ups](src/src/pentest/ressources/write-ups.md)
-	  - [🔀 Misc](src/src/pentest/ressources/Misc.md)
+	  - [🗺️ Cheatsheets and mindmaps](src/pentest/ressources/Cheatsheets_and_mindmaps)
+	  - [📋 Write-ups](📋%20Write-ups.md)
+	  - [🔀 Misc](src/pentest/ressources/Misc.md)
   - [🛠️ Tools](pentest/tools.md)
