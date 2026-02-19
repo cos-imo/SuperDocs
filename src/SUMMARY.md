@@ -32,7 +32,7 @@
   - [💾 Labs](pentest/💾%20Labs.md)
   - [📋 Lists](pentest/Lists.md)
   - [🧰 Resources](src/pentest/resources/🧰%20Resources.md)
-	  - [📓 Playbooks](pentest/resources/📓%20Playbooks.md)
+	  - [Playbooks](pentest/resources/Playbooks.md)
 	  - [🗺️ Cheatsheets and mindmaps](pentest/resources/🗺️%20Cheatsheets_et_mindmaps.md)
 	  - [📋 Write-ups](pentest/resources/📋%20Write-ups.md)
 	  - [🔀 Misc](pentest/resources/Misc.md)
