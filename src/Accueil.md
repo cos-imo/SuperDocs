@@ -42,7 +42,7 @@ Bonne lecture!
 - 🥷 [Pentest](🥷%20Pentest.md)
 
   - 📚 [Docs](📚%20Docs.md)
-  - 💾 [Labs](💾%20Labs.md)
+  - 💾 [Labs](pentest/💾%20Labs.md)
   - 📋 [Lists](Lists.md)
   - 🧰 [Ressources](🧰%20Ressources.md)
 	  - 📓 [Playbooks](📓%20Playbooks.md)
