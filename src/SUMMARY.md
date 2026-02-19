@@ -2,7 +2,7 @@
 
 - [🏠 Accueil](Accueil.md)
 
-- [🛡️ Cyber (Blue Team)](src/cyber%20(blue%20team)/cyber.md)
+- [🛡️ Gouvernance et Frameworks](🛡️%20Gouvernance%20et%20Frameworks.md)
 - [💻 Dev](dev/dev.md)
 
   - [📚 Docs](dev/docs.md)
