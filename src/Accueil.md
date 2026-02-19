@@ -5,8 +5,8 @@
 SuperDocs est une base de connaissances personnelle portée sur la cybersécurité (mais pas que!) destinée à centraliser, organiser et conserver des ressources en ligne de manière structurée.  
 L’objectif est d’offrir une alternative plus durable et exploitable qu’un simple système de favoris de navigateur.
 
->[!Note]
->SuperDocs est un produit purement personnel, je ne garantis en aucun la fiabilité des liens ni même leur choix
+> [!NOTE]
+> SuperDocs est un produit purement personnel, je ne garantis en aucun la fiabilité des liens ni même leur choix
 
 Bonne lecture!
 
@@ -45,7 +45,7 @@ Bonne lecture!
   - [💾 Labs](pentest/💾%20Labs.md)
   - [📋 Lists](pentest/Lists.md)
   - [🧰 Resources](src/pentest/resources/🧰%20Resources.md)
-	  - [📓 Playbooks](pentest/resources/📓%20Playbooks.md)
+	  - [Playbooks](Playbooks.md)
 	  - [🗺️ Cheatsheets and mindmaps](pentest/resources/🗺️%20Cheatsheets_et_mindmaps.md)
 	  - [📋 Write-ups](pentest/resources/📋%20Write-ups.md)
 	  - [🔀 Misc](pentest/resources/Misc.md)
