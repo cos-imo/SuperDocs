@@ -86,7 +86,9 @@ Chaque sous-dossier contient des fichiers **Markdown** pour les documents, outil
 
 ## Note de prudence
 
-> 📝 **Note:** SuperDocs est un produit **personnel**, je ne garantis ni la fiabilité, ni l’actualité, ni la complétude des liens et ressources listées.  
+
+> [!NOTE]  
+> SuperDocs est un produit **personnel**, je ne garantis ni la fiabilité, ni l’actualité, ni la complétude des liens et ressources listées.  
 > Utilisez les contenus avec discernement, dans un cadre légal et dans un environnement sécurisé.
 
 ---
