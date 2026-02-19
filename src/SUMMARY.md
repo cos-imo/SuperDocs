@@ -36,4 +36,4 @@
 	  - [🗺️ Cheatsheets and mindmaps](pentest/resources/🗺️%20Cheatsheets_et_mindmaps.md)
 	  - [📋 Write-ups](pentest/resources/📋%20Write-ups.md)
 	  - [🔀 Misc](pentest/resources/Misc.md)
-  - [🛠️ Tools](pentest/tools.md)
+  - [🧰 Tools](pentest/Tools.md)
