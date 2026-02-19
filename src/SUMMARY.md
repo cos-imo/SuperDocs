@@ -2,7 +2,7 @@
 
 - [🏠 Accueil](Accueil.md)
 
-- [🛡️ Gouvernance et Frameworks](🛡️%20Gouvernance%20et%20Frameworks.md)
+- [🛡️ Gouvernance et Frameworks](Gouvernance%20et%20Frameworks/🛡️%20Gouvernance%20et%20Frameworks.md)
 - [💻 Dev](dev/dev.md)
 
   - [📚 Docs](dev/docs.md)
@@ -33,7 +33,7 @@
   - [📋 Lists](Lists.md)
   - [🧰 Resources](src/pentest/resources/🧰%20Resources.md)
 	  - [📓 Playbooks](src/pentest/resources/📓%20Playbooks.md)
-	  - [🗺️ Cheatsheets and mindmaps](src/pentest/resources/🗺️%20Cheatsheets_and_mindmaps)
+	  - [🗺️ Cheatsheets and mindmaps](🗺️%20Cheatsheets_et_mindmaps.md)
 	  - [📋 Write-ups](src/pentest/resources/📋%20Write-ups.md)
 	  - [🔀 Misc](src/pentest/resources/Misc.md)
   - [🛠️ Tools](pentest/tools.md)
