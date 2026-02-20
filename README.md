@@ -11,11 +11,12 @@
 ## Sommaire
 
 1. [Présentation](#présentation)
-2. [Objectif et usage](#objectif-et-usage)
-3. [Installation](#installation)
-4. [Organisation des contenus](#organisation-des-contenus)
-5. [Note de prudence](#note-de-prudence)
-6. [Contribuer](#contribuer)
+2. [Notes](#notes)
+3. [Objectif et usage](#objectif-et-usage)
+4. [Installation](#installation)
+5. [Organisation des contenus](#organisation-des-contenus)
+6. [Note de prudence](#note-de-prudence)
+7. [Contribuer](#contribuer)
 
 ---
 
@@ -25,6 +26,15 @@
 L’objectif est de **centraliser, organiser et conserver des ressources en ligne** dans un format structuré et durable, plus exploitable qu’un simple système de favoris de navigateur.
 
 SuperDocs fonctionne sous forme de fichiers Markdown et peut être consulté avec n’importe quel lecteur Markdown ou via GitHub Pages.
+
+---
+
+## Notes
+
+Ce projet va de pair avec [Notes](https://github.com/cos-imo/Notes), qui regroupe mes **notes personnelles** sur le pentest et le consulting.  
+**Notes** complète **SuperDocs** en centralisant mes notes pour garder une vision organisée de mes apprentissages et expérimentations.
+
+Accès à [![Visiter Notes](https://img.shields.io/badge/📚-_Notes-blue?style=for-the-badge)](https://notes.cosimoungaro.fr)
 
 ---
 
