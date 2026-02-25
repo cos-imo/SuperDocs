@@ -2,7 +2,7 @@
 
 ## Général
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/langfr-960px-W3Schools_logo.svg.png" width="50vh" height="50wh">](https://www.w3schools.com/)  - **W3Schools** - Plateforme pédagogique généraliste proposant des introductions structurées et des exemples pratiques sur un large éventail de technologies
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/langfr-960px-W3Schools_logo.svg.png" width="25vh" height="25wh">](https://www.w3schools.com/)  - **W3Schools** - Plateforme pédagogique généraliste proposant des introductions structurées et des exemples pratiques sur un large éventail de technologies
 
 [![Static Badge](https://img.shields.io/badge/devdocs.io-general-black)](https://devdocs.io) - **DevDocs.io** - Référence centralisée offrant un accès unifié à la documentation de nombreux langages, frameworks et bibliothèques. 
 
@@ -15,7 +15,7 @@ Maintenue par Mozilla, elle fournit des contenus exhaustifs et normatifs
 
 ### Python
 
-[<img src="https://docs.python.org/3/_static/py.svg" width="50vh" height="50wh">](https://docs.python.org/3/)  - **Python** - Documentation officielle de Python
+[<img src="https://docs.python.org/3/_static/py.svg" width="25vh" height="25wh">](https://docs.python.org/3/)  - **Python** - Documentation officielle de Python
 
 [![Static Badge](https://img.shields.io/badge/THGP-structure-yellow)](https://docs.python-guide.org/writing/structure/) - **The Hitchhiker's guide to Python** - Guide méthodologique portant sur la structuration d'un projet Python.
 
@@ -23,7 +23,7 @@ Maintenue par Mozilla, elle fournit des contenus exhaustifs et normatifs
 
 [![Static Badge](https://img.shields.io/badge/bash-manual-black?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html) - **Bash Manual** - Manuel officiel du shell Bash
 
-[<img src="https://secure.gravatar.com/avatar/d6e53a055695ad6488b32a6ac4f6ee5d?s=128" width="50vh" height="50wh">](https://ysap.sh/)  - **You suck at programming** - Le blog de Dave Eddy, orienté compréhension des outils Unix (il possède également [une chaîne Youtube](https://www.youtube.com/@yousuckatprogramming) et [un dépôt GitHub](https://github.com/bahamas10))
+[<img src="https://secure.gravatar.com/avatar/d6e53a055695ad6488b32a6ac4f6ee5d?s=128" width="25vh" height="25wh">](https://ysap.sh/)  - **You suck at programming** - Le blog de Dave Eddy, orienté compréhension des outils Unix (il possède également [une chaîne Youtube](https://www.youtube.com/@yousuckatprogramming) et [un dépôt GitHub](https://github.com/bahamas10))
 
 ### Programmation
 
@@ -34,4 +34,4 @@ Maintenue par Mozilla, elle fournit des contenus exhaustifs et normatifs
 
 [![Static Badge](https://img.shields.io/badge/-GNU_Programming_Tutorial-blue?logo=C&logoColor=white)](https://archive.org/details/GNUCtut/mode/2up) - **GNU C - Programming Tutorial** - Tutoriel détaillé orienté vers la programmation pratique
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50vh" height="50wh">](https://www.microsoft.com/en-us/research/wp-content/uploads/1998/01/pal-manual.pdf) - **The C language reference manual** - Manuel de référence formelle du langage C, proposé par Microsoft
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="25vh" height="25wh">](https://www.microsoft.com/en-us/research/wp-content/uploads/1998/01/pal-manual.pdf) - **The C language reference manual** - Manuel de référence formelle du langage C, proposé par Microsoft
