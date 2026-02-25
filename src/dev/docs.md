@@ -1,30 +1,36 @@
 # Docs
 
+---
 ## Général
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/langfr-960px-W3Schools_logo.svg.png" width="25vh" height="25wh">](https://www.w3schools.com/)  - **W3Schools** - Plateforme pédagogique généraliste proposant des introductions structurées et des exemples pratiques sur un large éventail de technologies
 
 [![Static Badge](https://img.shields.io/badge/devdocs.io-general-black)](https://devdocs.io) - **DevDocs.io** - Référence centralisée offrant un accès unifié à la documentation de nombreux langages, frameworks et bibliothèques. 
 
+---
 ## Web
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/MDN_Web_Docs_logo.svg" width="50vh" height="50wh">](http://developer.mozilla.org/) - **MDN** - Documentation de référence pour les standards du Web : HTML, CSS, JavaScript et APIs Web.  
 Maintenue par Mozilla, elle fournit des contenus exhaustifs et normatifs
 
+---
 ## Scripting
 
+---
 ### Python
 
 [<img src="https://docs.python.org/3/_static/py.svg" width="25vh" height="25wh">](https://docs.python.org/3/)  - **Python** - Documentation officielle de Python
 
 [![Static Badge](https://img.shields.io/badge/THGP-structure-yellow)](https://docs.python-guide.org/writing/structure/) - **The Hitchhiker's guide to Python** - Guide méthodologique portant sur la structuration d'un projet Python.
 
+---
 ### Bash
 
 [![Static Badge](https://img.shields.io/badge/bash-manual-black?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html) - **Bash Manual** - Manuel officiel du shell Bash
 
 [<img src="https://secure.gravatar.com/avatar/d6e53a055695ad6488b32a6ac4f6ee5d?s=128" width="25vh" height="25wh">](https://ysap.sh/)  - **You suck at programming** - Le blog de Dave Eddy, orienté compréhension des outils Unix (il possède également [une chaîne Youtube](https://www.youtube.com/@yousuckatprogramming) et [un dépôt GitHub](https://github.com/bahamas10))
 
+---
 ### Programmation
 
 
